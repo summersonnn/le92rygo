@@ -8,7 +8,7 @@ def imshow(X, resize=None):
     We should be able to install this package in Google Colab from your Git
     repo.
     """
-    pass
+    print("Nope")
 
 def justHello():
     print("Hello World!")
