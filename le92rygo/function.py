@@ -9,6 +9,3 @@ def imshow(X, resize=None):
     repo.
     """
     print("Nope")
-
-def justHello():
-    print("Hello World!")
