@@ -5,4 +5,4 @@ version='0.1',
 author='Kubilay Yazoglu',
 author_email='kubilay.ky.yazoglu@fau.de',
 packages=find_packages(),
-install_requires=['numpy', 'Pillow', 'ipywidgets'])
+install_requires=['numpy', 'Pillow', 'ipywidgets', 'matplotlib'])
